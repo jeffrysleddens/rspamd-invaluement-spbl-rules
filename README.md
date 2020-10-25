@@ -16,4 +16,4 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 ## References
 
 * Rspamd: <https://rspamd.com>
-* Invaluement.com Service Provier DNSBL: <https://www.invaluement.com/serviceproviderdnsbl/>
+* Invaluement.com Service Provider DNSBL: <https://www.invaluement.com/serviceproviderdnsbl/>
